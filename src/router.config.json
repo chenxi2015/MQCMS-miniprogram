@@ -1,6 +1,6 @@
 {
   "mode": "history",
-  "domain": "https://www.chameleon.com",
+  "domain": "https://www.mqcms.net",
   "routes":[
     {
       "url": "/cml/h5/index",
@@ -11,7 +11,7 @@
     {
       "url": "/cml/h5/city",
       "path": "/pages/city/city",
-      "name": "city",
+      "name": "城市",
       "mock": "index.php"
     }
   ]

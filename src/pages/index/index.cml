@@ -31,9 +31,7 @@ class Index  {
           icon: require("../../assets/images/chameleon.png"),
         }
       ]
-    },
-    title: "chameleon",
-    chameleonSrc: require('../../assets/images/chameleon.png')
+    }
   }
   methods = {
   }

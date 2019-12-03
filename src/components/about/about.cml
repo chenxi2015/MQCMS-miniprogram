@@ -1,7 +1,7 @@
 <template>
   <view class="about">
     <view class="about-content">
-      <text>I am Chameleon!</text>
+      <text>I am MQCMS!</text>
       <image class="about-logo" src="{{logo}}"></image>
     </view>
   </view>
