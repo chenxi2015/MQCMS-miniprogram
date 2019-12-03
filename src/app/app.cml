@@ -28,7 +28,7 @@ export default new App();
     "window": {
       "backgroundTextStyle":"light",
       "navigationBarBackgroundColor": "#fff",
-      "navigationBarTitleText": "Chameleon",
+      "navigationBarTitleText": "MQCMS",
       "navigationBarTextStyle":"black"
     }
   },

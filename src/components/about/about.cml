@@ -12,7 +12,7 @@
 class About {
 
   data = {
-    logo: require('../../assets/images/chameleon.png')
+    logo: require('../../assets/images/logo.png')
   }
 
   computed = {

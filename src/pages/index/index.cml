@@ -23,12 +23,12 @@ class Index  {
         {
           compName:"home",
           text: "首页",
-          icon: require("../../assets/images/chameleon.png"),
+          icon: require("../../assets/images/logo.png"),
         },
         {
           compName:"about",
           text: "我的",
-          icon: require("../../assets/images/chameleon.png"),
+          icon: require("../../assets/images/logo.png"),
         }
       ]
     }
@@ -62,12 +62,12 @@ export default new Index();
     }
   },
   "wx": {
-    "navigationBarTitleText": "index",
+    "navigationBarTitleText": "首页",
     "backgroundTextStyle": "dark",
     "backgroundColor": "#E2E2E2"
   },
   "alipay": {
-    "defaultTitle": "index",
+    "defaultTitle": "首页",
     "pullRefresh": false,
     "allowsBounceVertical": "YES",
     "titleBarColor": "#ffffff"
@@ -75,14 +75,14 @@ export default new Index();
   "baidu": {
     "navigationBarBackgroundColor": "#ffffff",
     "navigationBarTextStyle": "white",
-    "navigationBarTitleText": "index",
+    "navigationBarTitleText": "首页",
     "backgroundColor": "#ffffff",
     "backgroundTextStyle": "dark",
     "enablePullDownRefresh": false,
     "onReachBottomDistance": 50
   },
   "qq": {
-    "navigationBarTitleText": "index",
+    "navigationBarTitleText": "首页",
     "backgroundTextStyle": "dark",
     "backgroundColor": "#E2E2E2"
   }
