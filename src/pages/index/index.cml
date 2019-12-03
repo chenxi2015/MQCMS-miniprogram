@@ -62,7 +62,7 @@ export default new Index();
     }
   },
   "wx": {
-    "navigationBarTitleText": "首页",
+    "navigationBarTitleText": "MQCMS",
     "backgroundTextStyle": "dark",
     "backgroundColor": "#E2E2E2"
   },

@@ -48,7 +48,7 @@ export default new Index();
     }
   },
   "wx": {
-    "navigationBarTitleText": "index",
+    "navigationBarTitleText": "城市列表",
     "backgroundTextStyle": "dark",
     "backgroundColor": "#E2E2E2"
   }
